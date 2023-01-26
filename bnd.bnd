@@ -1,0 +1,4 @@
+Bundle-Name: unit-test-example-portlet
+Bundle-SymbolicName: unit.test.example.portlet
+Bundle-Version: 1.0.0
+Export-Package: unit.test.example.portlet.constants
